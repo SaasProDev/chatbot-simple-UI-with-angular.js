@@ -14,11 +14,11 @@
   "author": "Eser",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.15.0",
+    "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.4",
     "dateformat": "^3.0.3",
     "ejs": "^2.4.1",
-    "express": "^4.8.2",
+    "express": "^4.18.2",
     "express-session": "^1.13.0"
   }
 }
